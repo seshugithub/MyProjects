@@ -3,7 +3,7 @@ package javasamples;
 public class Arrays {
 
 	public static void main(String[] args) {
-
+//seshu's scripts
 //Method:1		
 /*		int a [];
 		a = new int[3];
